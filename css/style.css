@@ -142,3 +142,8 @@ nav .countries{
 	font-family: 'Bree Serif', serif;
     top: 0;
 }
+
+.googleapis{
+  height: 460px;
+  width: 100%;  
+}
