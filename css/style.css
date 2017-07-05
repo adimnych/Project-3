@@ -1,3 +1,8 @@
+<style type="text/css">
+a:link    {
+  /* Applies to all unvisited links */
+  text-decoration:  none;
+
 /******NAVIGATION BAR********/
 nav {
 	background-color: #00ffcc;
