@@ -4,16 +4,19 @@
 nav {
 	background-color: #00ffcc;
 	text-align: center;
+	text-decoration: none;
 }
 nav ul {
   width: 100%;
   display: inline-block;
   overflow: hidden;
+  text-decoration: none;
 }
 nav ul li {
   display: inline-block;
   text-align: center;
   text-transform: uppercase;
+  text-decoration: none;
   padding: 10px; 
   font-size: 30px ;
 }
