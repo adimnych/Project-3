@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif');
+
+/******NAVIGATION BAR********/
+nav {
+	background-color: #00ffcc;
+	text-align: center;
+}
+nav ul {
+  width: 100%;
+  display: inline-block;
+  overflow: hidden;
+}
+nav ul li {
+  display: inline-block;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 10px; 
+  font-size: 30px ;
+}
+/********INDEX********/
+/* this is needed to center the navigation bar*/
+.resumebody {
+ 	min-width: 960px;
+	background-color: #00ffcc;
+	font-size: 1em;
+    top: 0;
+ }
+
+.mainpage{
+ 	min-width: 960px;
+    text-align: center;
+	background-color: #00ffcc;
+	font-size: 1em;
+    top: 0;
+}
+.Project, .Goals, .Aboutme{
+	color: red;
+	font-size: 20px;
+    font-style: normal; 
+    text-align: center;
+    background-color: #00ffcc;
+}
+div .projectdescr ul li{
+	font-size: 1.5em;
+	text-align: left;
+	margin: auto;
+
+}
+.Project2{
+	text-align: center;
+	color: red;
+	font-family: 'Bree Serif', serif;
+    font-size: 30px;
+    font-style: normal;
+}
+div .Goals ul li {
+	font-size: 1.5em;
+	text-align: left;
+	margin: auto;
+	padding: 0;
+	background-color: #00ffcc;
+}
+img #Andy{
+	float: right;
+	margin-left:5em;
+}
+
+div .myinfo ul li{
+	font-size: 1.5em;
+	text-align: left;
+	margin: auto;
+	color: red;
+
+}
+nav .project{
+  font-size: 100%;
+  text-align: center;
+  margin: auto;
+  position: relative;
+  max-width: 960px;
+}
+div .mainpage h3{
+  font-size: 200%;
+  text-align: center;
+  margin: auto;
+}
+div .mainpage ul li {
+	font-size: 140%;
+	margin: auto;
+}
+.css {
+	margin-left:auto;
+	margin-right:auto;
+	float :none;
+	vertical-align: middle;
+}
+/*******RESUME*****/
+.resumebody {
+	min-width: 960px;
+	background-color: #00ffcc;
+	font-size: 1em;
+	font-family: 'Bree Serif', serif;
+    top: 0;
+}
+
+.Education, .Computerskills{
+	color:black;
+	margin: auto;
+	font-family: 'Bree Serif', serif;
+	padding: 0;
+}
+
+.Profeccient, .Work, .References{
+	color:black;
+	text-align: center;
+	margin: auto;
+	font-family: 'Bree Serif', serif;
+	padding: 0;
+}
+
+
+/******Countries visisted****/
+.wraparound {
+     width: 800px;
+     margin: 0 auto;
+     background-color: #00ffcc;
+}
+nav .countries{
+  font-size: 100%;
+  text-align: center;
+
+  margin: auto;
+  position: relative;
+  max-width: 960px;
+}
+.countries{
+ 	min-width: 960px;
+	background-color: #00ffcc;
+	font-size: 1em;
+	font-family: 'Bree Serif', serif;
+    top: 0;
+}
