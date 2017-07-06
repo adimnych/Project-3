@@ -1,4 +1,4 @@
-function (newMap) {
+function (newMap)() {
   var center = {lat: 40, lng: -98}, // this is where my map will be centered at
   var map = new google.maps.Map(document.getElementById('google_api'),{zoom: 5, center: center});
    var festivals = [
