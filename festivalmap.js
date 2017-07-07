@@ -3,7 +3,6 @@ function newMap() {
     map = new google.maps.Map(document.getElementById('googleapis'),{zoom: 5, center: center});
     var festivals = [
      //This is the list of all the top ten EDM festivals in the united states
-     ['Electric Daisy Carnival Las Vegas', 36.1699° N, 115.1398° W,'<h1 style="font-size: 22px; margin-top:0px">Electric Daisy Carnival Las Vegas</h1><p style="font-size: 10px">June 10-14, 2017.</p>''],
         ['Lollapalooza', 41.8828 N, 87.6189 W,'<h1 style="font-size: 22px; margin-top:0px">Lollapalooza</h1><p style="font-size: 10px">August 3-6, 2017.</p>'],
         ['Ultra Music Festival', 25.7617 N, 80.1918 W,'<h1 style="font-size: 22px; margin-top:0px">Ultra Music Festival</h1><p style="font-size: 10px">March 23-25, 2017.</p>'],
         ['Burning Man', 40.9107 N, 119.0560 W,'<h1 style="font-size: 22px; margin-top:0px">Burning Man</h1><p style="font-size: 10px">Aug 27 - Sep 4 , 2017.</p>'],
